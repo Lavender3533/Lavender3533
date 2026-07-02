@@ -1,3 +1,6 @@
+<!-- 顶部动画横幅 -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=b57edc&height=200&section=header&text=Lavender%20🌸&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=%E8%83%BD%E8%87%AA%E5%8A%A8%E5%8C%96%E7%9A%84%E7%BB%9D%E4%B8%8D%E6%89%8B%E5%8A%A8%20%C2%B7%20%E8%83%BD%E7%99%BD%E5%AB%96%E7%9A%84%E7%BB%9D%E4%B8%8D%E4%BB%98%E8%B4%B9&descAlignY=58&descSize=16" alt="header" />
+
 <div align="center">
 
 <!-- 打字机动画标题 -->
@@ -39,6 +42,12 @@
   <img src="https://github-readme-streak-stats-chi-green.vercel.app/?user=Lavender3533&hide_border=true&background=00000000&ring=B57EDC&fire=FF9EC6&currStreakLabel=B57EDC&sideLabels=8A8A9E&currStreakNum=B57EDC&sideNums=B57EDC&dates=8A8A9E" alt="streak" />
 </div>
 
+### 🏆 成就奖杯
+
+<div align="center">
+  <img src="https://github-profile-trophy-lovat-eight.vercel.app/?username=Lavender3533&theme=dracula&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
+</div>
+
 ### 🐍 贪吃蛇吃贡献
 
 <div align="center">
@@ -49,10 +58,13 @@
   </picture>
 </div>
 
----
+### 💬 每日一句
 
 <div align="center">
-
-*🌸 种一株薰衣草,收获一整个花园 🌸*
-
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="random dev quote" />
 </div>
+
+---
+
+<!-- 底部波浪 -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=b57edc&height=120&section=footer&text=%E7%A7%8D%E4%B8%80%E6%A0%AA%E8%96%B0%E8%A1%A3%E8%8D%89%EF%BC%8C%E6%94%B6%E8%8E%B7%E4%B8%80%E6%95%B4%E4%B8%AA%E8%8A%B1%E5%9B%AD%20%F0%9F%8C%B8&fontSize=18&fontColor=ffffff&fontAlignY=75" alt="footer" />
