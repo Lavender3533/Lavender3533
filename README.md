@@ -31,8 +31,8 @@
 ### 📊 数据卡片
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Lavender3533&show_icons=true&hide_border=true&bg_color=00000000&title_color=b57edc&icon_color=ff9ec6&text_color=8a8a9e&ring_color=b57edc&include_all_commits=true&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lavender3533&layout=compact&hide_border=true&bg_color=00000000&title_color=b57edc&text_color=8a8a9e&langs_count=8" alt="top langs" />
+  <img height="165" src="https://github-readme-stats-indol-kappa-39.vercel.app/api?username=Lavender3533&show_icons=true&hide_border=true&bg_color=00000000&title_color=b57edc&icon_color=ff9ec6&text_color=8a8a9e&ring_color=b57edc&include_all_commits=true&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-indol-kappa-39.vercel.app/api/top-langs/?username=Lavender3533&layout=compact&hide_border=true&bg_color=00000000&title_color=b57edc&text_color=8a8a9e&langs_count=8" alt="top langs" />
 </div>
 
 <div align="center">
