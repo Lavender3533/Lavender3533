@@ -36,7 +36,7 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Lavender3533&hide_border=true&background=00000000&ring=B57EDC&fire=FF9EC6&currStreakLabel=B57EDC&sideLabels=8A8A9E&currStreakNum=B57EDC&sideNums=B57EDC&dates=8A8A9E" alt="streak" />
+  <img src="https://github-readme-streak-stats-chi-green.vercel.app/?user=Lavender3533&hide_border=true&background=00000000&ring=B57EDC&fire=FF9EC6&currStreakLabel=B57EDC&sideLabels=8A8A9E&currStreakNum=B57EDC&sideNums=B57EDC&dates=8A8A9E" alt="streak" />
 </div>
 
 ### 🐍 贪吃蛇吃贡献
