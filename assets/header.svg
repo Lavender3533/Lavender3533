@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-labelledby="title desc">
+  <title id="title">Lavender — personal software lab. Making tools. Connecting things.</title>
+  <desc id="desc">Lavender — personal software lab. Making tools. Connecting things.</desc>
+  <defs>
+    <linearGradient id="violet" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#dacbff"/><stop offset="1" stop-color="#9773e6"/></linearGradient>
+    <radialGradient id="halo"><stop stop-color="#9b75e9" stop-opacity=".14"/><stop offset="1" stop-color="#9b75e9" stop-opacity="0"/></radialGradient>
+    
+  </defs>
+  <style>
+    .mono { font-family: Consolas, 'Liberation Mono', monospace; }
+    .sans { font-family: Arial, 'Liberation Sans', sans-serif; }
+    .float { animation: float 9s ease-in-out infinite; }
+    .pulse { animation: pulse 4s ease-in-out infinite; }
+    .signal { stroke-dasharray: 5 13; animation: signal 8s linear infinite; }
+    @keyframes float { 50% { transform: translateY(-7px); } }
+    @keyframes pulse { 50% { opacity: .45; } }
+    @keyframes signal { to { stroke-dashoffset: -72; } }
+    @media (prefers-reduced-motion: reduce) { .float, .pulse, .signal { animation: none; } }
+  </style>
+  
+  <rect x=".5" y=".5" width="1199" height="439" rx="10" fill="#111116" stroke="#302a3b"/>
+  <ellipse cx="981" cy="209" rx="255" ry="210" fill="url(#halo)"/>
+  <g stroke="#29252f" fill="none"><path d="M1 67h1198M1 379h1198M797 68v310"/><path d="M832 337l168-84 167 84M832 253l168-84 167 84M832 169l168-84 167 84" stroke-dasharray="3 9"/></g>
+  <g class="mono" font-size="14" letter-spacing="1.8">
+    <text x="56" y="41" fill="#cdc4da">L / 3533</text>
+    <text x="212" y="41" fill="#8d839b">PERSONAL SOFTWARE LAB</text>
+    <circle class="pulse" cx="1010" cy="35" r="3.5" fill="#c4e8d2"/>
+    <text x="1023" y="40" fill="#b4c8bd" font-size="12" letter-spacing="1">STILL BUILDING</text>
+  </g>
+  <text x="56" y="128" class="mono" font-size="14" letter-spacing="2.4" fill="#a18ab9">TOOLS / EXPERIMENTS / OPEN SOURCE</text>
+  <g fill="#f1edf8" transform="translate(50 236) scale(0.0546875 -0.0546875)"><path d="M157 0V1454H453V247H1189V0Z" transform="translate(0.000 0)"/><path d="M1471 0H1149L1021 333H435L314 0H0L571 1466H884ZM926 580 724 1124 526 580Z" transform="translate(1159.571 0)"/><path d="M523 0 -1 1466H320L691 381L1050 1466H1364L839 0Z" transform="translate(2547.143 0)"/><path d="M149 0V1466H1236V1218H445V893H1181V646H445V247H1264V0Z" transform="translate(3821.714 0)"/><path d="M152 0V1466H440L1040 487V1466H1315V0H1018L427 956V0Z" transform="translate(5096.286 0)"/><path d="M148 1466H689Q872 1466 968 1438Q1097 1400 1189.0 1303.0Q1281 1206 1329.0 1065.5Q1377 925 1377 719Q1377 538 1332 407Q1277 247 1175 148Q1098 73 967 31Q869 0 705 0H148ZM444 1218V247H665Q789 247 844 261Q916 279 963.5 322.0Q1011 365 1041.0 463.5Q1071 562 1071 732Q1071 902 1041.0 993.0Q1011 1084 957.0 1135.0Q903 1186 820 1204Q758 1218 577 1218Z" transform="translate(6483.857 0)"/><path d="M149 0V1466H1236V1218H445V893H1181V646H445V247H1264V0Z" transform="translate(7871.429 0)"/><path d="M150 0V1466H773Q1008 1466 1114.5 1426.5Q1221 1387 1285.0 1286.0Q1349 1185 1349 1055Q1349 890 1252.0 782.5Q1155 675 962 647Q1058 591 1120.5 524.0Q1183 457 1289 286L1468 0H1114L900 319Q786 490 744.0 534.5Q702 579 655.0 595.5Q608 612 506 612H446V0ZM446 846H665Q878 846 931.0 864.0Q984 882 1014.0 926.0Q1044 970 1044 1036Q1044 1110 1004.5 1155.5Q965 1201 893 1213Q857 1218 677 1218H446Z" transform="translate(9146.000 0)"/></g>
+  <text x="57" y="292" class="sans" font-size="29" letter-spacing="-.5" fill="#aaa2b5">Making tools. Connecting things.</text>
+  <g class="mono" font-size="12" letter-spacing="1.2" fill="#b3a8c2">
+    <text x="58" y="344">AI TOOLING</text><path d="M180 333v13M401 333v13" stroke="#51435f"/>
+    <text x="200" y="344">WEB &amp; AUTOMATION</text><text x="420" y="344">SMALL OBSESSIONS</text>
+  </g>
+  <g transform="translate(0 -24)"><g class="float"><g stroke="#dfd2ff" stroke-opacity=".17" stroke-width="1">
+      <path d="M1063 290l48 24.0v27l-48 -24.0Z" fill="#201c29"/>
+      <path d="M1111 314.0l48 -24.0v27l-48 24.0Z" fill="#191720"/>
+      <path d="M1063 290l48 -24.0l48 24.0l-48 24.0Z" fill="#28232f"/>
+    </g><g stroke="#dfd2ff" stroke-opacity=".17" stroke-width="1">
+      <path d="M1015 314l48 24.0v27l-48 -24.0Z" fill="#201c29"/>
+      <path d="M1063 338.0l48 -24.0v27l-48 24.0Z" fill="#191720"/>
+      <path d="M1015 314l48 -24.0l48 24.0l-48 24.0Z" fill="#28232f"/>
+    </g><g stroke="#dfd2ff" stroke-opacity=".17" stroke-width="1">
+      <path d="M967 338l48 24.0v27l-48 -24.0Z" fill="#201c29"/>
+      <path d="M1015 362.0l48 -24.0v27l-48 24.0Z" fill="#191720"/>
+      <path d="M967 338l48 -24.0l48 24.0l-48 24.0Z" fill="#28232f"/>
+    </g><g stroke="#dfd2ff" stroke-opacity=".17" stroke-width="1">
+      <path d="M1015 266l48 24.0v27l-48 -24.0Z" fill="#201c29"/>
+      <path d="M1063 290.0l48 -24.0v27l-48 24.0Z" fill="#191720"/>
+      <path d="M1015 266l48 -24.0l48 24.0l-48 24.0Z" fill="#28232f"/>
+    </g><g stroke="#dfd2ff" stroke-opacity=".17" stroke-width="1">
+      <path d="M967 290l48 24.0v27l-48 -24.0Z" fill="#201c29"/>
+      <path d="M1015 314.0l48 -24.0v27l-48 24.0Z" fill="#191720"/>
+      <path d="M967 290l48 -24.0l48 24.0l-48 24.0Z" fill="#28232f"/>
+    </g><g stroke="#dfd2ff" stroke-opacity=".17" stroke-width="1">
+      <path d="M919 314l48 24.0v27l-48 -24.0Z" fill="#201c29"/>
+      <path d="M967 338.0l48 -24.0v27l-48 24.0Z" fill="#191720"/>
+      <path d="M919 314l48 -24.0l48 24.0l-48 24.0Z" fill="#28232f"/>
+    </g><g stroke="#dfd2ff" stroke-opacity=".17" stroke-width="1">
+      <path d="M967 242l48 24.0v27l-48 -24.0Z" fill="#201c29"/>
+      <path d="M1015 266.0l48 -24.0v27l-48 24.0Z" fill="#191720"/>
+      <path d="M967 242l48 -24.0l48 24.0l-48 24.0Z" fill="#28232f"/>
+    </g><g stroke="#dfd2ff" stroke-opacity=".17" stroke-width="1">
+      <path d="M919 266l48 24.0v27l-48 -24.0Z" fill="#201c29"/>
+      <path d="M967 290.0l48 -24.0v27l-48 24.0Z" fill="#191720"/>
+      <path d="M919 266l48 -24.0l48 24.0l-48 24.0Z" fill="#28232f"/>
+    </g><g stroke="#dfd2ff" stroke-opacity=".17" stroke-width="1">
+      <path d="M871 290l48 24.0v27l-48 -24.0Z" fill="#201c29"/>
+      <path d="M919 314.0l48 -24.0v27l-48 24.0Z" fill="#191720"/>
+      <path d="M871 290l48 -24.0l48 24.0l-48 24.0Z" fill="#28232f"/>
+    </g><g stroke="#dfd2ff" stroke-opacity=".17" stroke-width="1">
+      <path d="M1063 242l43 21.5v48l-43 -21.5Z" fill="#8464b9"/>
+      <path d="M1106 263.5l43 -21.5v48l-43 21.5Z" fill="#5c4389"/>
+      <path d="M1063 242l43 -21.5l43 21.5l-43 21.5Z" fill="#c5aff5"/>
+    </g><g stroke="#dfd2ff" stroke-opacity=".17" stroke-width="1">
+      <path d="M1015 236l43 21.5v78l-43 -21.5Z" fill="#8464b9"/>
+      <path d="M1058 257.5l43 -21.5v78l-43 21.5Z" fill="#5c4389"/>
+      <path d="M1015 236l43 -21.5l43 21.5l-43 21.5Z" fill="#c5aff5"/>
+    </g><g stroke="#dfd2ff" stroke-opacity=".17" stroke-width="1">
+      <path d="M967 230l43 21.5v108l-43 -21.5Z" fill="#8464b9"/>
+      <path d="M1010 251.5l43 -21.5v108l-43 21.5Z" fill="#5c4389"/>
+      <path d="M967 230l43 -21.5l43 21.5l-43 21.5Z" fill="#c5aff5"/>
+    </g><g stroke="#dfd2ff" stroke-opacity=".17" stroke-width="1">
+      <path d="M967 134l43 21.5v108l-43 -21.5Z" fill="#8464b9"/>
+      <path d="M1010 155.5l43 -21.5v108l-43 21.5Z" fill="#5c4389"/>
+      <path d="M967 134l43 -21.5l43 21.5l-43 21.5Z" fill="#c5aff5"/>
+    </g><g stroke="#dfd2ff" stroke-opacity=".17" stroke-width="1">
+      <path d="M919 128l43 21.5v138l-43 -21.5Z" fill="#8464b9"/>
+      <path d="M962 149.5l43 -21.5v138l-43 21.5Z" fill="#5c4389"/>
+      <path d="M919 128l43 -21.5l43 21.5l-43 21.5Z" fill="#c5aff5"/>
+    </g><g stroke="#dfd2ff" stroke-opacity=".17" stroke-width="1">
+      <path d="M871 122l43 21.5v168l-43 -21.5Z" fill="#8464b9"/>
+      <path d="M914 143.5l43 -21.5v168l-43 21.5Z" fill="#5c4389"/>
+      <path d="M871 122l43 -21.5l43 21.5l-43 21.5Z" fill="#c5aff5"/>
+    </g>
+    <path d="M886 146l43-21 43 21-43 22Z" fill="none" stroke="#f4eaff" stroke-opacity=".45"/>
+    <path d="M929 125v44" stroke="#f4eaff" stroke-opacity=".23"/>
+  </g></g>
+  <g class="mono" font-size="12" letter-spacing="1.5" fill="#8a8196">
+    <text x="56" y="414">LAVENDER3533</text><text x="1145" y="414" text-anchor="end">IDEA → CODE → SOMETHING USEFUL</text>
+  </g>
+
+</svg>

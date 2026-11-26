@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230" role="img" aria-labelledby="title desc">
+  <title id="title">kiro2Api — ai infrastructure</title>
+  <desc id="desc">kiro2Api — ai infrastructure</desc>
+  <defs>
+    <linearGradient id="violet" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#dacbff"/><stop offset="1" stop-color="#9773e6"/></linearGradient>
+    <radialGradient id="halo"><stop stop-color="#9b75e9" stop-opacity=".14"/><stop offset="1" stop-color="#9b75e9" stop-opacity="0"/></radialGradient>
+    
+  </defs>
+  <style>
+    .mono { font-family: Consolas, 'Liberation Mono', monospace; }
+    .sans { font-family: Arial, 'Liberation Sans', sans-serif; }
+    .float { animation: float 9s ease-in-out infinite; }
+    .pulse { animation: pulse 4s ease-in-out infinite; }
+    .signal { stroke-dasharray: 5 13; animation: signal 8s linear infinite; }
+    @keyframes float { 50% { transform: translateY(-7px); } }
+    @keyframes pulse { 50% { opacity: .45; } }
+    @keyframes signal { to { stroke-dashoffset: -72; } }
+    @media (prefers-reduced-motion: reduce) { .float, .pulse, .signal { animation: none; } }
+  </style>
+  
+  <rect x=".5" y=".5" width="1199" height="229" rx="8" fill="#141319" stroke="#342c40"/>
+  <path d="M22 24v182" stroke="#b89ee8" stroke-width="2"/>
+  <ellipse cx="1044" cy="111" rx="240" ry="170" fill="url(#halo)"/>
+  <text x="54" y="44" class="mono" font-size="13" letter-spacing="1.8" fill="#bda7dc">02 / AI INFRASTRUCTURE</text>
+  <g fill="#f1edf8" transform="translate(50 130) scale(0.0317383 -0.0317383)"><path d="M137 0V1466H418V688L747 1062H1093L730 674L1119 0H816L549 477L418 340V0Z" transform="translate(0.000 0)"/><path d="M147 1206V1466H428V1206ZM147 0V1062H428V0Z" transform="translate(1082.286 0)"/><path d="M416 0H135V1062H396V911Q463 1018 516.5 1052.0Q570 1086 638 1086Q734 1086 823 1033L736 788Q665 834 604 834Q545 834 504.0 801.5Q463 769 439.5 684.0Q416 599 416 328Z" transform="translate(1594.572 0)"/><path d="M82 546Q82 686 151.0 817.0Q220 948 346.5 1017.0Q473 1086 629 1086Q870 1086 1024.0 929.5Q1178 773 1178 534Q1178 293 1022.5 134.5Q867 -24 631 -24Q485 -24 352.5 42.0Q220 108 151.0 235.5Q82 363 82 546ZM370 531Q370 373 445.0 289.0Q520 205 630 205Q740 205 814.5 289.0Q889 373 889 533Q889 689 814.5 773.0Q740 857 630 857Q520 857 445.0 773.0Q370 689 370 531Z" transform="translate(2334.858 0)"/><path d="M1036 261V0H51Q67 148 147.0 280.5Q227 413 463 632Q653 809 696 872Q754 959 754 1044Q754 1138 703.5 1188.5Q653 1239 564 1239Q476 1239 424.0 1186.0Q372 1133 364 1010L84 1038Q109 1270 241.0 1371.0Q373 1472 571 1472Q788 1472 912.0 1355.0Q1036 1238 1036 1064Q1036 965 1000.5 875.5Q965 786 888 688Q837 623 704.0 501.0Q571 379 535.5 339.0Q500 299 478 261Z" transform="translate(3529.145 0)"/><path d="M1471 0H1149L1021 333H435L314 0H0L571 1466H884ZM926 580 724 1124 526 580Z" transform="translate(4611.431 0)"/><path d="M139 1062H401V906Q452 986 539.0 1036.0Q626 1086 732 1086Q917 1086 1046.0 941.0Q1175 796 1175 537Q1175 271 1045.0 123.5Q915 -24 730 -24Q642 -24 570.5 11.0Q499 46 420 131V-404H139ZM417 549Q417 370 488.0 284.5Q559 199 661 199Q759 199 824.0 277.5Q889 356 889 535Q889 702 822.0 783.0Q755 864 656 864Q553 864 485.0 784.5Q417 705 417 549Z" transform="translate(6033.717 0)"/><path d="M147 1206V1466H428V1206ZM147 0V1062H428V0Z" transform="translate(7228.003 0)"/></g>
+  <text x="55" y="183" class="mono" font-size="16" letter-spacing=".4" fill="#a397b2">ONE INTERFACE. MORE POSSIBILITIES.</text>
+  <g transform="translate(842 51)" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M31 33h42q13 0 13 13v33h42M31 124h42q13 0 13-13V79M199 79h44" stroke="#76608f" stroke-width="1.5"/>
+    <path class="signal" d="M31 33h42q13 0 13 13v33h42M199 79h44" stroke="#c7a2ff" stroke-width="2"/>
+    <rect x="0" y="13" width="42" height="40" rx="6" fill="#201a29" stroke="#594267"/>
+    <path d="M14 26l-6 7 6 7M28 26l6 7-6 7" stroke="#c9b1eb" stroke-width="2"/>
+    <rect x="0" y="104" width="42" height="40" rx="6" fill="#201a29" stroke="#594267"/>
+    <path d="M10 118l7 6-7 6M22 131h10" stroke="#c9b1eb" stroke-width="2"/>
+    <rect x="125" y="46" width="76" height="66" rx="10" fill="#31243f" stroke="#a681cc"/>
+    <text x="163" y="86" class="mono" font-size="23" fill="#e0c7ff" stroke="none" text-anchor="middle">API</text>
+    <rect x="240" y="56" width="35" height="46" rx="5" fill="#201a29" stroke="#7d6196"/>
+    <path d="M250 70h15M250 79h10M250 88h15" stroke="#c1a3df" stroke-width="2"/>
+  </g>
+  <g transform="translate(1147 33)" fill="none" stroke="#cbb8e9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M0 15L15 0M0 0h15v15"/></g>
+
+</svg>
