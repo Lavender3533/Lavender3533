@@ -7,11 +7,6 @@
   <a href="https://orcid.org/0009-0006-3768-0670">ORCID</a>
 </p>
 
-喜欢折腾 AI 工具、API 和自动化，也会做一些让日常使用更顺手的小东西。<br/>
-**能自动化的，尽量不手动。**
-
-<br/>
-
 ### 一些作品 / Selected work
 
 <a href="https://github.com/Lavender3533/obsidian-video-note">
